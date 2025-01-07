@@ -2,7 +2,7 @@
 
 Pretrained model for translating japanese to english can be found here->https://huggingface.co/tirthadagr8/Japanese_to_english_gpt2CasualLM_GemmaTokenizer
 
-Made using Gpt-Small from scratch for learning purpose. Tokenizer used is from Gemma 2-2B-JPN-IT which is trained on japanese dataset from JESC.
+Made using Gpt-Small from scratch for learning purpose. Tokenizer used is from Gemma 2-2B-JPN-IT which is trained on japanese dataset from JESC.\n
 Model usage:-
 
 
